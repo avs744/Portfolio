@@ -1,16 +1,90 @@
-# React + Vite
+# 🚀 Aniket Shinde Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and journey as a developer.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://portfolio-two-rosy-32.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the ESLint configuration
+I'm a passionate developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and turning ideas into real-world projects.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- Vercel
+
+---
+
+## ✨ Features
+
+- Responsive Design
+- Modern UI/UX
+- Project Showcase
+- Contact Section
+- Fast Performance
+- Mobile Friendly
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/avs744/Portfolio.git
+```
+
+Move into the project folder:
+
+```bash
+cd Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed on Vercel.
+
+Live Site:
+https://portfolio-two-rosy-32.vercel.app/
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/avs744
+- Portfolio: https://portfolio-two-rosy-32.vercel.app/
+
+---
+
+⭐ If you like this project, consider giving it a star!
