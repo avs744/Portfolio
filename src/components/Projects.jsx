@@ -19,7 +19,7 @@ const projects = [
     tags: ['Next.js', 'TypeScript', 'Python', '+2'],
     category: 'AI/ML',
     featured: true,
-    liveUrl: 'https://dueltech.vercel.app/',
+    liveUrl: 'https://duel-tech.onrender.com',
     githubUrl: '#',
   },
   {
