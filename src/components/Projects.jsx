@@ -34,7 +34,7 @@ const projects = [
     tags: ['Next.js', 'React', 'Node.js', '+2'],
     category: 'Web Dev',
     featured: false,
-    liveUrl: 'https://customebike.vercel.app/',
+    liveUrl: 'https://customebike1.vercel.app/',
     githubUrl: 'https://github.com/avs744/Customebike.git',
   },
 ]
