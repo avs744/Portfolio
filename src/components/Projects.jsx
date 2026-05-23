@@ -20,7 +20,7 @@ const projects = [
     category: 'AI/ML',
     featured: true,
     liveUrl: 'https://duel-tech.onrender.com',
-    githubUrl: '#',
+    githubUrl: 'https://github.com/avs744/Duel-Tech.git',
   },
   {
     title: 'Custom Bike Marketplace',
